@@ -15,7 +15,7 @@ affiliated with or endorsed by Vasant Valley School.
 | **Email Address** | [yashdamani07@gmail.com] |
 | **GitHub Username** | [ https://github.com/yash-damani07] |
 | **Selected Website** | https://www.vasantvalley.org/ |
-| **Live Demo Link** | [https://your-project.vercel.app](https://your-project.vercel.app) |
+| **Live Demo Link** | dettroin-int-yash-damani-website.vercel.app |
 
 ## Technologies Used
 
