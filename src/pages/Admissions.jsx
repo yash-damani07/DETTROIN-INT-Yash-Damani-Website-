@@ -62,7 +62,7 @@ export default function Admissions() {
             </p>
 
             {submitted ? (
-              <div className="mt-8 rounded-2xl border border-pine/30 bg-pine/10 p-6">
+              <div role="status" className="mt-8 rounded-2xl border border-pine/30 bg-pine/10 p-6">
                 <p className="font-display text-xl text-pine">Enquiry received</p>
                 <p className="mt-2 text-sm text-ink/70">
                   Thank you — the admissions team will be in touch at {form.email}.
@@ -128,7 +128,7 @@ export default function Admissions() {
                     className="mt-2 w-full rounded-xl border border-ink/15 bg-white/70 px-4 py-3 outline-none focus:border-brick"
                   />
                 </div>
-                {error && <p className="text-sm text-brick">{error}</p>}
+                {error && <p role="alert" className="text-sm text-brick">{error}</p>}
                 <button
                   type="submit"
                   className="rounded-full bg-brick px-6 py-3 font-semibold text-paper transition-colors hover:bg-brick-dark"
