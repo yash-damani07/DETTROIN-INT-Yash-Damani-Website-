@@ -10,10 +10,10 @@ affiliated with or endorsed by Vasant Valley School.
 
 | Field | Value |
 |---|---|
-| **Full Name** | [Your Full Name] |
+| **Full Name** | Yash Damani |
 | **Intern ID** | [Your Intern ID] |
-| **Email Address** | [your.email@example.com] |
-| **GitHub Username** | [your-github-username] |
+| **Email Address** | [yashdamani07@gmail.com] |
+| **GitHub Username** | [ https://github.com/yash-damani07] |
 | **Selected Website** | https://www.vasantvalley.org/ |
 | **Live Demo Link** | [https://your-project.vercel.app](https://your-project.vercel.app) |
 
