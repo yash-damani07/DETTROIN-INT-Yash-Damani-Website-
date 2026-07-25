@@ -18,7 +18,7 @@ export default function About() {
       />
 
       <section className="bg-paper">
-        <div className="mx-auto grid max-w-6xl gap-12 px-5 py-20 md:grid-cols-2 md:px-8">
+        <div className="mx-auto grid max-w-6xl gap-12 px-5 py-20 lg:grid-cols-2 md:px-8">
           <Reveal>
             <p className="eyebrow text-brick">Origins</p>
             <h2 className="mt-3 font-display text-3xl">A school built to keep asking questions</h2>

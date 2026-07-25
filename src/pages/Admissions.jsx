@@ -52,7 +52,7 @@ export default function Admissions() {
       </section>
 
       <section className="bg-sand">
-        <div className="mx-auto grid max-w-6xl gap-12 px-5 py-20 md:grid-cols-[1fr_1.1fr] md:px-8">
+        <div className="mx-auto grid max-w-6xl gap-12 px-5 py-20 lg:grid-cols-[1fr_1.1fr] md:px-8">
           <Reveal>
             <p className="eyebrow text-brick">Enquiry Form</p>
             <h2 className="mt-3 font-display text-3xl">Tell us about your child</h2>
